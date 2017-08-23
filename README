@@ -1,0 +1,3 @@
+En este repositorio se encuentan los folders del codigo fuento para el cmake que son:
+ el archivo de codigo de holamundo.cpp y el CMakeLists.txt listo para ejecutar
+ y tmaben se encuentran el resultado de este luego de ser compilado por cmake

@@ -1,0 +1,3 @@
+/home/sebastian/Documents/C-Make/resultado_holamundo/CMakeFiles/edit_cache.dir
+/home/sebastian/Documents/C-Make/resultado_holamundo/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/C-Make/resultado_holamundo/CMakeFiles/hola.dir
